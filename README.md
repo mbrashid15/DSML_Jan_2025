@@ -6,3 +6,5 @@
  Adding a new change
 
  Adding a change on remote
+
+I am in branch A.
